@@ -17,7 +17,7 @@ def print_fibonacci_pyramid(rows):
         print()  # Переход на новую строку
 
 # Укажите количество строк пирамиды
-rows = 16
+rows = 30
 print_fibonacci_pyramid(rows)
 
 def factorial(n):
